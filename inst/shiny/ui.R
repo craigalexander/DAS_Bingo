@@ -11,7 +11,7 @@ fluidPage(
     id = "form",
     h1(id = "apptitle", "Bingo card generator"),
     div(id = "Based on an example created by",
-        "By", a("Jenny Bryan", href = "https://twitter.com/jennybryan"),
+        "Based on an example created by ", a("Jenny Bryan", href = "https://twitter.com/jennybryan"),
         "for", a("Happy Git", href = "https://happygitwithr.com/"),
         HTML("&bull;"),
         "Code", a("on GitHub", href = "https://github.com/craigalexander/DAS_Bingo")

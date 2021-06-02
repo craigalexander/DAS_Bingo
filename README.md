@@ -1,22 +1,13 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<!-- badges: start -->
-
-[![Travis build
-status](https://travis-ci.org/jennybc/bingo.svg?branch=master)](https://travis-ci.org/jennybc/bingo)
-[![AppVeyor build
-status](https://ci.appveyor.com/api/projects/status/github/jennybc/bingo?branch=master&svg=true)](https://ci.appveyor.com/project/jennybc/bingo)
-[![Codecov test
-coverage](https://codecov.io/gh/jennybc/bingo/branch/master/graph/badge.svg)](https://codecov.io/gh/jennybc/bingo?branch=master)
-<!-- badges: end -->
 
 # bingo
 
 Generate Bingo cards.
 
-Currently has built-in squares for SuperBowl 50 :football: and data /
-spreadsheet craziness :chart\_with\_downwards\_trend: and more. Or you
+Currently has built-in squares for Eurovision :music: and data /
+spreadsheets :chart\_with\_downwards\_trend: and more. Or you
 can provide your own text for the squares.
 
 Make printable Bingo cards **without installing anything** via this
