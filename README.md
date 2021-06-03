@@ -6,19 +6,19 @@
 
 Generate Bingo cards.
 
-Currently has built-in squares for Eurovision :music: and data /
+Currently has built-in squares for Eurovision :microphone: and data /
 spreadsheets :chart\_with\_downwards\_trend: and more. Or you
 can provide your own text for the squares.
 
 Make printable Bingo cards **without installing anything** via this
 Shiny app:
 
-  - <http://daattali.com/shiny/bingo/>
+  - <https://stats-glasgow.shinyapps.io/Bingo>
   - It’s also included in the package (see
     [below](#run-shiny-app-locally)).
 
 Feel free to help us make these cards less ugly or to explore new bingo
-topics\! PRs welcome :grin:.
+topics\!
 
 ## Installation
 
@@ -26,10 +26,10 @@ Install from GitHub with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("jennybc/bingo")
+devtools::install_github("craigalexander/DAS_Bingo")
 ```
 
-## SuperBowl Example
+## Eurovision Example
 
 ``` r
 library(bingo)
@@ -65,7 +65,7 @@ Here’s what one looks like:
 
 ## “Open” and Bad Data Examples
 
-We offer two sets of squares inspired by the ~~pain~~ joy of dealing
+We have two sets of squares inspired by the ~~pain~~ joy of dealing
 with
 [`#otherpeoplesdata`](https://twitter.com/search?q=%23otherpeoplesdata&src=tyah)
 
@@ -121,7 +121,7 @@ Here’s an Open Data bingo card:
 ## Run Shiny app locally
 
 To run [the app we’re running
-remotely](http://daattali.com/shiny/bingo/) on your own machine, do
+remotely](https://stats-glasgow.shinyapps.io/Bingo) on your own machine, do
 this:
 
 ``` r
