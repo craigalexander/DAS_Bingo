@@ -1,0 +1,35 @@
+#List_of_proper_names_of_stars
+
+#Jinda(LouisY) Zhang
+
+#derived from https://en.wikipedia.org/wiki/List_of_proper_names_of_stars
+c("Lynx",
+  "Eridanus",
+  "Cassiopeia",
+  "Scorpius",
+  "Crux",
+  "Leo",
+  "Canis Major",
+  "Andromeda",
+  "Taurus",
+  "Sagittarius",
+  "Lyra",
+  "Andromeda",
+  "Serpens",
+  "Sagittarius",
+  "Aquarius",
+  "Cygnus",
+  "Corvus",
+  "Ursa Major",
+  "Taurus",
+  "Phoenix",
+  "Vulpecula",
+  "Boötes",
+  "Carina",
+  "Aries",
+  "Mensa",
+  "Ara",
+  "Monoceros",
+  "Cygnus",
+  "Fornax",
+  "Virgo")
