@@ -1,0 +1,36 @@
+# The 31 Harry Potter Spells Everyone Should Know
+# Xiaotong Ma
+# From: https://www.fatherly.com/play/25-harry-potter-spells-charms-everyone-should-know/
+
+c("Lumos",
+  "Accio",
+  "Alohomora",
+  "Aguamenti",
+  "Avada Kedavra",
+  "Brackium Emendo",
+  "Bubble-Head Charm",
+  "Caterwauling Charm",
+  "Confundo",
+  "Cushioning Charm",
+  "Diffindo",
+  "Engorgio",
+  "Expecto Patronum",
+  "Expelliarmus",
+  "Finite Incantatem",
+  "Furnunculus",
+  "Gripping Charm",
+  "Muffliato",
+  "Obliviate",
+  "Homenum Revelio",
+  "Locomotor Wibbly",
+  "Oculus Reparo",
+  "Petrificus Totalus",
+  "Point Me",
+  "Protego",
+  "Reducio",
+  "Rictusempra",
+  "Riddikulus",
+  "Scourgify",
+  "Stupefy",
+  "Wingardium Leviosa"
+  )
