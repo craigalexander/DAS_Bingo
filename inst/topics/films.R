@@ -1,0 +1,30 @@
+#List of films of the Dutch East Indies
+#from "https://en.wikipedia.org/wiki/List_of_films_of_the_Dutch_East_Indies"
+c(
+  "Loetoeng Kasaroeng",
+  "Eulis Atjih",
+  "Lily van Java",
+  "Resia Boroboedoer",
+  "Setangan Berloemoer Darah",
+  "Njai Dasima",
+  "Rampok Preanger",
+  "Si Tjonat",
+  "Karnadi Anemer Bangkong",
+  "Lari ke Arab",
+  "Nancy Bikin Pembalesan",
+  "Njai Dasima",
+  "De Stem des Bloeds",
+  "Si Ronda",
+  "Boenga Roos dari Tjikembang",
+  "Huwen op Bevel",
+  "Indonesia Malaise",
+  "Melati van Agam",
+  "Sam Pek Eng Tay",
+  "Si Pitoeng",
+  "Sarinah",
+  "Sinjo Tjo Main di Film",
+  "Ouw Peh Tjoa",
+  "Njai Dasima",
+  "Poei Sie Giok Pa Loei Tay",
+  "Anaknja Siloeman Oeler Poeti"
+)
