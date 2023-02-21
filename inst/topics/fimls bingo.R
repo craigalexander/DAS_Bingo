@@ -1,0 +1,5 @@
+devtools::install_github("craigalexander/DAS_Bingo")
+library(bingo)
+tail(get_topic("films"))
+bc <- bingo(n_cards = 8, words = get_topic("films"))
+plot(bc)
