@@ -27,5 +27,12 @@ c("Hockey",
   "Skating",
   "Surf",
   "Climbing",
-  "Cycling"
-  )
+  "Cycling",
+  "Kayaking",
+  "Softball",
+  "boxing",
+  "triathlon",
+  "judo",
+  "Karate",
+  "archery",
+  "fencing")
