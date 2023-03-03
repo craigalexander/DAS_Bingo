@@ -1,6 +1,7 @@
 # William Arnott
 # The players listed on the 2022 Detroit Lions roster
 # Names taken from: https://en.wikipedia.org/wiki/2022_Detroit_Lions_season#Final_roster
+
 c(
   "Jared Goff",
   "Nate Sudfeld",
