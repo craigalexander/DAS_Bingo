@@ -1,0 +1,34 @@
+#There are 30 dota2 hero names
+#Xiaofei Wang
+
+heroes_list <- c(
+                 "Anti-Mage", 
+                 "Axe", 
+                 "Bane", 
+                 "Bloodseeker", 
+                 "Crystal Maiden",
+                 "Drow Ranger", 
+                 "Earthshaker", 
+                 "Juggernaut", 
+                 "Mirana", 
+                 "Morphling",
+                 "Shadow Fiend", 
+                 "Phantom Lancer", 
+                 "Puck", 
+                 "Pudge", 
+                 "Razor",
+                 "Sand King", 
+                 "Storm Spirit", 
+                 "Sven", "Tiny", 
+                 "Vengeful Spirit",
+                 "Windranger", 
+                 "Zeus", 
+                 "Kunkka", 
+                 "Lina", 
+                 "Lion", 
+                 "Shadow Shaman",
+                 "Slardar", 
+                 "Tidehunter", 
+                 "Witch Doctor", 
+                 "Riki"
+                )
